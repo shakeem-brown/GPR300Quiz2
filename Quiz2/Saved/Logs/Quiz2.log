@@ -4306,3 +4306,68 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.09-00.45.31:947][144]AssetCheck: New page: Asset Save: multiple assets
 [2022.03.09-00.45.31:947][144]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
 [2022.03.09-00.45.31:947][144]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2022.03.09-00.57.13:152][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz2/Quiz2/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.09-00.57.13:161][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.03.09-00.57.13:172][935]LogSavePackage: Moving '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz2/Quiz2/Saved/NewMapE0329FBA4D027C2A1BF721A5EF68862C.tmp' to '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz2/Quiz2/Content/NewMap.umap'
+[2022.03.09-00.57.13:177][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz2/Quiz2/Content/NewMap_BuiltData.uasset" SILENT=true
+[2022.03.09-00.57.13:194][935]LogSavePackage: Moving '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz2/Quiz2/Saved/NewMap_BuiltDataB26897FD425ACB97606B1EBAAC3E3076.tmp' to '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz2/Quiz2/Content/NewMap_BuiltData.uasset'
+[2022.03.09-00.57.13:208][935]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.09-00.57.13:208][935]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2022.03.09-00.57.13:208][935]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2022.03.09-00.57.16:684][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.03.09-00.57.19:786][302]LogMaterialEditor: Saving and Compiling material NewMat
+[2022.03.09-00.57.20:158][302]LogMaterial: Display: Missing cached shadermap for NewMat in PCD3D_SM5, Default, SM5 (DDC key hash: 2466DEA74B2C53629ADD1D4B3A1B5FB65F5D8E99), compiling. 
+[2022.03.09-00.57.20:201][302]LogMaterial: Display: Missing cached shadermap for NewMat in PCD3D_SM5, Default, SM5 (DDC key hash: A844E7F829AA3C2ACA2F60CBC3E71385364855CE), compiling. 
+[2022.03.09-00.57.20:211][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.03.09-00.57.20:379][302]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.09-00.57.20:379][302]LogShaderCompilers: Display: Total job queries 2333, among them cache hits 2009 (86.11%)
+[2022.03.09-00.57.20:379][302]LogShaderCompilers: Display: Tracking 254 distinct input hashes that result in 120 distinct outputs (47.24%)
+[2022.03.09-00.57.20:379][302]LogShaderCompilers: Display: RAM used: 0.76 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.18%
+[2022.03.09-00.57.20:379][302]LogShaderCompilers: Display: ================================================
+[2022.03.09-00.57.20:392][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.03.09-00.57.28:580][302]LogSlate: Window 'Message' being destroyed
+[2022.03.09-00.57.28:587][302]Message dialog closed, result: Yes, title: Message, text: NewMat already exists. Do you want to replace it?
+[2022.03.09-00.57.28:587][302]LogSlate: Window 'Save Asset As' being destroyed
+[2022.03.09-00.57.28:640][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMat" FILE="../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz2/Quiz2/Content/NewMat.uasset" SILENT=true
+[2022.03.09-00.57.28:652][302]LogSavePackage: Moving '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz2/Quiz2/Saved/NewMat42715D3C46D184892D5E3497E364F166.tmp' to '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz2/Quiz2/Content/NewMat.uasset'
+[2022.03.09-00.57.28:687][302]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewMat.NewMat
+[2022.03.09-00.57.28:690][302]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E9AF26F9C0959795EC4B5117BFCA8D1DEF8F1757), compiling. 
+[2022.03.09-00.57.28:701][302]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.03.09-00.57.28:820][302]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 81B266F41A53270C99FCA51A388F9CB730F0EAE4), compiling. 
+[2022.03.09-00.57.28:823][302]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: D93DAF7A317CBB27EEE7D3012D0F5E91D7CAF80E), compiling. 
+[2022.03.09-00.57.28:825][302]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: DF358769D69670A0705AE64C43F61B7F599ADE99), compiling. 
+[2022.03.09-00.57.28:826][302]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6D72F6707782847C168A0860F4EE9875AC23DDF1), compiling. 
+[2022.03.09-00.57.28:828][302]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E1FC54CF6B36106B7908AEADD1001D7C6C635907), compiling. 
+[2022.03.09-00.57.28:830][302]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 2BA5D49BB63141CA7FFB719E83C3A6FC60E16D21), compiling. 
+[2022.03.09-00.57.28:831][302]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FACB95A51C9497F80CB3BD973C08F8C3D1A2760F), compiling. 
+[2022.03.09-00.57.28:832][302]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_5 in PCD3D_SM5, Default, SM5 (DDC key hash: CA44779F0E23885A15D254D43BC1DB986602A150), compiling. 
+[2022.03.09-00.57.28:834][302]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_6 in PCD3D_SM5, Default, SM5 (DDC key hash: 650E2C8505EC3370C02F20678601560E79B0C7B8), compiling. 
+[2022.03.09-00.57.28:835][302]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionBumpOffset_2 in PCD3D_SM5, Default, SM5 (DDC key hash: AEC6099A6D4880E23ED88A4829881BEDFB6043AF), compiling. 
+[2022.03.09-00.57.28:902][302]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-00.57.28:902][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-00.57.28:932][302]AssetCheck: New page: Asset Save: NewMat
+[2022.03.09-00.57.28:932][302]LogContentValidation: Display: Validating Material /Game/NewMat.NewMat
+[2022.03.09-00.57.28:934][302]MaterialEditorStats: Texture samplers: 0/16
+[2022.03.09-00.57.28:934][302]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.09-00.57.28:934][302]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.09-00.57.29:068][303]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.09-00.57.29:068][303]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.03.09-00.57.29:068][303]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.03.09-00.57.29:068][303]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.09-00.57.29:068][303]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.03.09-00.57.29:068][303]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.03.09-00.57.29:068][303]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.03.09-00.57.29:068][303]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-00.57.30:656][352]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.03.09-00.57.30:656][352]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-00.57.31:627][378]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.03.09-00.57.31:628][378]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.03.09-00.57.31:659][379]MaterialEditorStats: Texture samplers: 3/16
+[2022.03.09-00.57.31:659][379]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.09-00.57.31:659][379]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.09-00.57.33:925][448]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.03.09-00.57.33:925][448]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.03.09-00.57.33:925][448]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.03.09-00.57.33:925][448]MaterialEditorStats: Texture samplers: 3/16
+[2022.03.09-00.57.33:925][448]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.03.09-00.57.33:925][448]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
