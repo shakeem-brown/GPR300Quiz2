@@ -4371,3 +4371,59 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.09-00.57.33:925][448]MaterialEditorStats: Texture samplers: 3/16
 [2022.03.09-00.57.33:925][448]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
 [2022.03.09-00.57.33:925][448]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.03.09-01.00.20:256][394]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.03.09-01.00.20:256][394]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.03.09-01.00.20:256][394]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.03.09-01.00.20:256][394]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.03.09-01.00.21:441][433]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.09-01.00.21:441][433]LogShaderCompilers: Display: Total job queries 2367, among them cache hits 2021 (85.38%)
+[2022.03.09-01.00.21:441][433]LogShaderCompilers: Display: Tracking 265 distinct input hashes that result in 120 distinct outputs (45.28%)
+[2022.03.09-01.00.21:441][433]LogShaderCompilers: Display: RAM used: 0.76 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.18%
+[2022.03.09-01.00.21:441][433]LogShaderCompilers: Display: ================================================
+[2022.03.09-01.06.53:273][916]LogSlate: Window 'Message' being destroyed
+[2022.03.09-01.06.53:281][916]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/NewMat.NewMat
+(Selecting 'No' will cause all changes to be lost!)
+[2022.03.09-01.06.53:626][916]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A6BF8A19BD0702FFC6CB30FE710F8F7A3A990343), compiling. 
+[2022.03.09-01.06.53:660][916]LogMaterial: Display: Missing cached shadermap for NewMat in PCD3D_SM5, Default, SM5 (DDC key hash: 65A041F936A097C67908923597EC1C6F8018F070), compiling. 
+[2022.03.09-01.06.53:728][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.03.09-01.06.53:892][916]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.09-01.06.53:892][916]LogShaderCompilers: Display: Total job queries 2403, among them cache hits 2057 (85.60%)
+[2022.03.09-01.06.53:892][916]LogShaderCompilers: Display: Tracking 266 distinct input hashes that result in 120 distinct outputs (45.11%)
+[2022.03.09-01.06.53:892][916]LogShaderCompilers: Display: RAM used: 0.76 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.18%
+[2022.03.09-01.06.53:892][916]LogShaderCompilers: Display: ================================================
+[2022.03.09-01.06.53:906][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.03.09-01.06.53:926][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.09-01.06.56:602][916]LogSlate: Window 'Save Content' being destroyed
+[2022.03.09-01.06.56:666][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMat" FILE="../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz2/Quiz2/Content/NewMat.uasset" SILENT=true
+[2022.03.09-01.06.56:677][916]LogSavePackage: Moving '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz2/Quiz2/Saved/NewMat1EB126AC432B0F7532B349B63A86483F.tmp' to '../../../../../../Users/oxthe/Desktop/GPR-300-51/GPR300Quiz2/Quiz2/Content/NewMat.uasset'
+[2022.03.09-01.06.56:686][916]LogSlate: Window 'NewMat' being destroyed
+[2022.03.09-01.06.56:701][916]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-01.06.56:701][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.09-01.06.56:861][916]LogSlate: Window 'Quiz2 - Unreal Editor' being destroyed
+[2022.03.09-01.06.57:549][916]AssetCheck: New page: Asset Save: NewMat
+[2022.03.09-01.06.57:549][916]LogContentValidation: Display: Validating Material /Game/NewMat.NewMat
+[2022.03.09-01.06.57:550][917]Cmd: QUIT_EDITOR
+[2022.03.09-01.06.57:550][917]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.03.09-01.06.57:625][917]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.03.09-01.06.58:165][917]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.03.09-01.06.58:165][917]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.03.09-01.06.58:165][917]LogAudio: Display: Audio Device unregistered from world 'NewMap'.
+[2022.03.09-01.06.58:166][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.09-01.06.58:170][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.09-01.06.58:211][917]LogAudio: Display: Audio Device Manager Shutdown
+[2022.03.09-01.06.58:232][917]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.09-01.06.58:272][917]LogExit: Preparing to exit.
+[2022.03.09-01.06.59:248][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.03.09-01.07.00:316][917]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-01.07.00:954][917]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.03.09-01.07.01:358][917]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.03.09-01.07.01:373][917]LogExit: Editor shut down
+[2022.03.09-01.07.01:381][917]LogExit: Transaction tracking system shut down
+[2022.03.09-01.07.04:185][917]LogExit: Object subsystem successfully closed.
+[2022.03.09-01.07.04:211][917]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.09-01.07.04:211][917]LogShaderCompilers: Display: Total job queries 2403, among them cache hits 2057 (85.60%)
+[2022.03.09-01.07.04:211][917]LogShaderCompilers: Display: Tracking 266 distinct input hashes that result in 120 distinct outputs (45.11%)
+[2022.03.09-01.07.04:211][917]LogShaderCompilers: Display: RAM used: 0.76 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.18%
+[2022.03.09-01.07.04:211][917]LogShaderCompilers: Display: ================================================
+[2022.03.09-01.07.04:396][917]LogShaderCompilers: Display: Shaders left to compile 0
